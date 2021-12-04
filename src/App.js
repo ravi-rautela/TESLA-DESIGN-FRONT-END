@@ -6,7 +6,7 @@ import Home from './components/Home';
 function App() {
   return (
     <div classNameApp>
-      {/* <Header /> */}
+      <Header />
       <Home />
     </div>
   );
